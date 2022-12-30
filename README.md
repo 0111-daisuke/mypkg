@@ -32,15 +32,15 @@ $ ros2 run mypkg talker
 2
 ```
 $ ros2 run mypkg listener
-[INFO] [1672380076.318295700] [listener]: Listen: 47                                                                    
-[INFO] [1672380076.773725600] [listener]: Listen: 48                                                                    
-[INFO] [1672380077.273496100] [listener]: Listen: 49                                                                    
-[INFO] [1672380077.773575500] [listener]: Listen: 50                                                                    
-[INFO] [1672380078.273591900] [listener]: Listen: 51                                                                    
-[INFO] [1672380078.772615400] [listener]: Listen: 52                                                                    
+[INFO] [1672380076.318295700] [listener]: Listen: 47                       
+[INFO] [1672380076.773725600] [listener]: Listen: 48                                                     
+[INFO] [1672380077.273496100] [listener]: Listen: 49                                            
+[INFO] [1672380077.773575500] [listener]: Listen: 50                                         
+[INFO] [1672380078.273591900] [listener]: Listen: 51                                                 
+[INFO] [1672380078.772615400] [listener]: Listen: 52                                                        
 [INFO] [1672380079.273691200] [listener]: Listen: 53                                                                    
-[INFO] [1672380079.773548900] [listener]: Listen: 54                                                                    
-[INFO] [1672380080.273539100] [listener]: Listen: 55                                                                    
+[INFO] [1672380079.773548900] [listener]: Listen: 54                                          
+[INFO] [1672380080.273539100] [listener]: Listen: 55                                           
 [INFO] [1672380080.773590100] [listener]: Listen: 56 
 ```
 
@@ -58,10 +58,10 @@ $ ros2 launch mypkg talk_listen.launch.py
 [listener-2] [INFO] [1672381101.543357800] [listener]: Listen: 4
 [listener-2] [INFO] [1672381102.043345400] [listener]: Listen: 5
 [listener-2] [INFO] [1672381102.543442000] [listener]: Listen: 6
-[listener-2] [INFO] [1672381103.043370300] [listener]: Listen: 7                                                        
+[listener-2] [INFO] [1672381103.043370300] [listener]: Listen: 7               
 [listener-2] [INFO] [1672381103.543373900] [listener]: Listen: 8                                                        
-[listener-2] [INFO] [1672381104.043371700] [listener]: Listen: 9                                                        
-[listener-2] [INFO] [1672381104.543374700] [listener]: Listen: 10                                           
+[listener-2] [INFO] [1672381104.043371700] [listener]: Listen: 9                 
+[listener-2] [INFO] [1672381104.543374700] [listener]: Listen: 10            
 [listener-2] [INFO] [1672381105.043392600] [listener]: Listen: 11
 ```
 # 必要なソフトウェア
@@ -73,6 +73,7 @@ $ ros2 launch mypkg talk_listen.launch.py
 # テスト環境
 * Ubuntu 22.04.1 LTS
 
+これらはロボットシステム学の授業内で作成したものです.
 このソフトウェアパッケージは、３条項BSDライセンスの下、再頒布および使用が許可されます.
 
 ©2022 Daisuke Mori
