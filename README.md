@@ -1,15 +1,8 @@
 # mypkg
 ![test](https://github.com/0111-daisuke/mypkg/actions/workflows/test.yml/badge.svg)
 
-# このパッケージに含まれているもの
-
-* package.xml
-
-* setup.py
-
-* mypkg/listener.py及びmypkg/talker.py
-
-* launch/talk_listen.launch.py
+# このパッケージについて
+これは数字を送信するtalker.pyと受け取ったメッセージを表示するlistener.pyに関するパッケージです.
 
 ## 動作手順
 ```
