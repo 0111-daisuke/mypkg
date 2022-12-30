@@ -1,3 +1,5 @@
+#SPDX-FileCopyrightText: 2022 Daisuke Mori
+#SPDX-License-Identifier: BSD-3-clause
 import rclpy
 from rclpy.node import Node
 from std_msgs.msg import Int16

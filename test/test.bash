@@ -1,3 +1,5 @@
+#SPDX-FileCopyrightText: 2022 Daisuke Mori
+#SPDX-License-Identifier: BSD-3-clause
 #!/bin/bash
 
 dir=~
