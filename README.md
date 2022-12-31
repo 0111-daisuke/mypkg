@@ -6,7 +6,7 @@
 
 ## 動作手順
 ```
-$ git clone git@github.com:0111-daisuke/mypkg.git
+$ git clone https://github.com/0111-daisuke/mypkg.git
 
 $ cd ~/ros2_ws
 $ colcon build
