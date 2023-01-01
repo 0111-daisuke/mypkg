@@ -61,9 +61,8 @@ $ ros2 launch mypkg talk_listen.launch.py
 * Python 3.7~3.10
 * ROS2
 作者はhumbleを使用
-* 動作確認済み: Ubuntu 22.04.1 LTS
 
-# テスト環境
+# 実行環境
 * Ubuntu 22.04.1 LTS
 
 これらはロボットシステム学の授業内で作成したものです.
