@@ -6,9 +6,10 @@
 
 ## 動作手順
 ```
+$ cd ros2_ws
+
 $ git clone https://github.com/0111-daisuke/mypkg.git
 
-$ cd ~/ros2_ws
 $ colcon build
 $ source ~/ros2_ws/install/setup.bash
 $ source ~/ros2_ws/install/local_setup.bash
