@@ -57,10 +57,9 @@ $ ros2 launch mypkg talk_listen.launch.py
 [listener-2] [INFO] [1672381104.543374700] [listener]: Listen: 10            
 [listener-2] [INFO] [1672381105.043392600] [listener]: Listen: 11
 ```
-# 必要なソフトウェア
-* Python 3.7~3.10
-* ROS2
-作者はhumbleを使用
+# 作者の使用したソフトウェア
+* Python 3.10.6
+* ROS2 humbl
 
 # 実行環境
 * Ubuntu 22.04.1 LTS
