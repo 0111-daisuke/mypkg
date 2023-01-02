@@ -5,7 +5,7 @@
 これは数字を送信するtalker.pyと受け取ったメッセージを表示するlistener.pyに関するパッケージです.
 
 ## 動作手順
-ros2上でmypkgをクローンする
+mypkgをクローンする
 ```
 $ git clone https://github.com/0111-daisuke/mypkg.git
 ```
