@@ -5,19 +5,6 @@
 これは数字を送信するtalker.pyと受け取ったメッセージを表示するlistener.pyに関するパッケージです.
 
 ## 動作手順
-mypkgをクローンする
-```
-$ git clone https://github.com/0111-daisuke/mypkg.git
-```
-ビルドをする
-```
-$ colcon build
-$ source ~/ros2_ws/install/setup.bash
-$ source ~/ros2_ws/install/local_setup.bash
-$ source ~/.bashrc
-$ ros2 pkg list | grep mypkg
-$ ros2 pkg list | grep person_msgs
-```
 端末を2つ開き下記の実行コマンドを入力する
 
 1
