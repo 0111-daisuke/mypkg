@@ -6,8 +6,6 @@
 
 ## 動作手順
 ```
-$ cd ros2_ws
-
 $ git clone https://github.com/0111-daisuke/mypkg.git
 
 $ colcon build
